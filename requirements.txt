@@ -4,5 +4,5 @@ scikit-learn
 scipy
 aiohttp
 aiocron
-sqlalchemy=2.0.25
-pydantic=1.10.12
+sqlalchemy==2.0.25
+pydantic==1.10.12
